@@ -1,0 +1,32 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Rest API fullstack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lensom/Rest-API-App.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "js",
+    "vue",
+    "express.js",
+    "fullstack",
+    "node.js"
+  ],
+  "author": "Alexey Rybalko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lensom/Rest-API-App/issues"
+  },
+  "homepage": "https://github.com/Lensom/Rest-API-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
